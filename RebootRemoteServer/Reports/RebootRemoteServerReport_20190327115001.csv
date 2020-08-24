@@ -1,0 +1,6 @@
+﻿"ip","bfrebootNetConnection","bfrebootFQDN","bfrebootInDomain","bfrebootCredentialusername","CredentialStatus","bfrebootRunreboot","waittime","afrebootNetConnection","afrebootlastBootuptime","afrebootallServiceStatus"
+"192.168.200.22","YES","REBOOT02.TESTDOMAIN.COM","YES","TESTDOMAIN\user01","Wrong","NO","90","YES","Unknow","Unknow"
+"192.168.200.25","YES","REBOOT05.TESTDOMAIN.COM","YES","TESTDOMAIN\user01","Right","YES","90","YES","3/27/2019 11:53:03 AM","Null:default OK"
+"192.168.200.23","YES","REBOOT03.TESTDOMAIN.COM","YES","administrator","Wrong","NO","90","YES","Unknow","Unknow"
+"192.168.200.24","YES","REBOOT04.TESTDOMAIN.COM","YES","administrator","Right","YES","90","YES","3/27/2019 11:54:02 AM","Null:default OK"
+"192.168.200.10","YES","SCCM001.TESTDOMAIN.COM","YES","TESTDOMAIN\administrator","Right","YES","90","YES","3/27/2019 11:51:19 AM","Worked"

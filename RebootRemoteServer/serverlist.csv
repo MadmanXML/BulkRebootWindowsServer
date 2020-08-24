@@ -1,0 +1,6 @@
+ServerIP,AdminUserName,Password
+192.168.200.10,testdomain\administrator,P@ssw0rd
+192.168.200.22,testdomain\user01,123.com
+192.168.200.23,administrator,123.com
+192.168.200.25,testdomain\user01,P@ssw0rd
+192.168.200.24,administrator,P@ssw0rd

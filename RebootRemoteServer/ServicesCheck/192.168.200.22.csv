@@ -1,0 +1,6 @@
+servicesname,servicestatus
+Dhcp,Stopped
+AeLookupSvc,Stopped
+BITS,Running
+CcmExec,Running
+Netlogon,Running

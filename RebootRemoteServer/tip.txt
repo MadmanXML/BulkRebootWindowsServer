@@ -1,0 +1,21 @@
+【1】Server
+	a.Get-ExecutionPolicy RemoteSigned
+	b.join in domain
+
+
+【2】Need reboot server
+	a.disable firewall
+
+
+【3】执行脚本的用户
+	1.必需有对计算机列表文件/脚本报告文件/日志文件所在目录的完全控制权限
+	2.登陆脚本执行计算机的用户必须是重启对象的本地管理员组成员（WORKGROUP除外）
+	3.WORKGROUP计算机重启账户必须是administrator（其他即使是本地管理员群组成员也不能生效）
+
+	
+【4】计算机列表文件
+	1.不能有空行
+
+
+其他：
+	正常情况下，每台服务器的整个重启作业大约花费2min时间。
